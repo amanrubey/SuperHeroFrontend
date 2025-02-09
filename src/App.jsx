@@ -216,6 +216,7 @@ const App = () => {
   const [selectedPower, setSelectedPower] = useState("all");
 
   useEffect(() => {
+    document.title = "SuperHeroes in Town";
     fetchHeroes();
   }, []);
 
