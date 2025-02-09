@@ -12,7 +12,7 @@ If I had more time, I would have implemented the following features:
 - **Mobile Compatibility**: Ensure a seamless experience on mobile devices.
 - **Delete Superheroes Feature**: Provide users with the option to remove superheroes.
 - **Improved Filter Power Button UI**: Enhance the design and usability of the filter power button.
-- **Made the codebase modular**: by having components in separate folder.
+- **Make the codebase modular**: by having components in separate folder.
 
 ## Existing Issues & Bugs 🐞
 
