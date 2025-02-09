@@ -13,6 +13,7 @@ If I had more time, I would have implemented the following features:
 - **Delete Superheroes Feature**: Provide users with the option to remove superheroes.
 - **Improved Filter Power Button UI**: Enhance the design and usability of the filter power button.
 - **Make the codebase modular**: by having components in separate folder.
+- **Place pic**: Place pic of the superpower on right end of card.
 
 ## Existing Issues & Bugs 🐞
 
